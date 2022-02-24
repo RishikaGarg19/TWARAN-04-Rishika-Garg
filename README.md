@@ -2,8 +2,8 @@
 A repository containing solutions to different questions as a part of my pre-reads.
 This branch contains solutions to the Java-based questions.
 
-#Problem Statement:
-#In order to get the best out of this program, it is imperative that you are comfortable coding in Java. In order to help you practice coding in Java, we have a few exercises that will help you get more comfortable. 
+###### Problem Statement:
+#### In order to get the best out of this program, it is imperative that you are comfortable coding in Java. In order to help you practice coding in Java, we have a few exercises that will help you get more comfortable. 
 #
 #1. Signup to Exercism with your GitHub IDs. https://exercism.org
 #2. Go to tracks and choose Java
