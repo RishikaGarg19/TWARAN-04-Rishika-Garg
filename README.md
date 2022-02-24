@@ -1,5 +1,5 @@
 # TWARAN-04-Rishika-Garg
-## A repository containing solutions to different questions as a part of my pre-reads. ### This branch contains solutions to the Java-based questions.
+## A repository containing solutions to different questions as a part of my pre-reads. This branch contains solutions to the Java-based questions.
 #### 
 #### Problem Statement:
 ##### In order to get the best out of this program, it is imperative that you are comfortable coding in Java. In order to help you practice coding in Java, we have a few exercises that will help you get more comfortable. 
