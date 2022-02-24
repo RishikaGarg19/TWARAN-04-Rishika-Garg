@@ -1,4 +1,4 @@
-# TWARAN-04-Rishika-Garg
+# TWARAN-04-Rishika-Garg-JavaScript
 ### A repository containing solutions to different questions as a part of my pre-reads. 
 ### This branch contains solutions to the JavaScript-based questions.
 #### 
