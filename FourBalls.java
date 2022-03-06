@@ -16,11 +16,6 @@ public class FourBalls extends PApplet
     }
 
     @Override
-    public void setup() //For size
-    {
-    }
-
-    @Override
     public void draw()
     {   ellipse(x1, (height*1/5), radius, radius);
         x1+=1;
